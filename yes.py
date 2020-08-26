@@ -118,4 +118,4 @@ async def ez(ctx):
 
 #holy fucking shit after 2 hours of trail and error i am finally done 
 
-client.run(os.environ['NzQ3MzExMjk0NDc4MTU1ODE2.X0NB4A.YluKI1ZAtmgymtLRMuz3ZfGACUw'])
+client.run(os.environ['token'])
